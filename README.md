@@ -6,8 +6,7 @@ Celem zadanie jest stworzenie systemy umożliwiającego zarządzanie zadaniami w
   * każde zadanie ma mieć tytuł, opis oraz termin jego wykonania
   * zadania powinny być wyświetlane w kolejności ich terminów wykonania
 * niezalogowany użytkownik ma mieć możliwość wyświetlania listy zadań (2 punkty)
-* użytkownik loguje się poprzez podanie nazwy użytkownika oraz hasła użytych podczas rejestracji w systemie (4 punkty)
-* niezalogowany użytkownik powinien
+* użytkownik loguje się poprzez podanie nazwy użytkownika oraz hasła użytych podczas rejestracji w systemie (4 punkty)ien
 * cały system ma być przetestowany testami behawioralnymi (BDD) z użycie biblioteki [Cucumber](https://cucumber.io/docs/tools/ruby/) (10 punktów)
 * całość ma być uruchamiania jako kontener w Dockerze (4 punkty)
 
